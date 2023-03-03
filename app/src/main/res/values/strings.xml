@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Laboratorio_2</string>
+    <string name="article_title">Obras de Arte</string>
+    <string name="article_subtitle">Mona Lisa, Leonardo da Vinci</string>
+    <string name="article_text">También conocida como <b>La Gioconda</b>, es una de las obras más conocidas del artista italiano Leonardo da Vinci y una de las más visitadas del mundo. Es un gran ejemplo de la técnica del claroscuro e hipnotiza por la enigmática sonrisa de la dama retratada. Actualmente se exhibe en el Museo Louvre en París.
+    \n
+Por medio de estudios históricos se ha determinado que la modelo podría ser una vecina de Leonardo, que podrían conocerse sus descendientes y que la modelo podría haber estado embarazada, por la forma de esconder que tienen sus manos. Pese a todas las suposiciones, las respuestas en firme a los varios interrogantes en torno a la obra de arte resultan francamente insuficientes, lo cual genera más curiosidad entre los admiradores del cuadro.
+\n
+La fama de esta pintura no se basa únicamente en la técnica empleada o en su belleza, sino también en los misterios que la rodean. Además, el<b><i>robo que sufrió en 1911</i></b> , las reproducciones realizadas, las múltiples obras de arte que se han inspirado en el cuadro y las parodias existentes contribuyen a convertir a La Gioconda en el cuadro más famoso del mundo, visitado por millones de personas anualmente
+    </string>
+    <string name="subtitulo">La Ultima Cena, Leonardo da Vinci</string>
+    <string name="article_text2">Esta pintura de da Vinci es la representación de <b>La última cena</b>, narrada en el <b><i>Evangelio de San Juan</i></b>. Es una obra clave del Renacimiento y todo un tratado de perspectiva. La Última Cena está pintada al óleo sobre yeso, una técnica no utilizada antes en la pintura mural, por lo que su restauración ha sido un proceso complicado. Hoy en día se encuentra en La Iglesia de Santa Maria delle Grazie.
+\n
+Declarado Patrimonio de la Humanidad por la Unesco en 1980. La pintura fue elaborada para su patrón, el duque Ludovico Sforza de Milán. No es un fresco tradicional, sino un mural ejecutado al temple y óleo sobre dos capas de preparación de yeso extendidas sobre enlucido. Mide 460 cm de alto por 880 cm de ancho. Muchos expertos e historiadores del arte consideran La última cena como una de las mejores obras pictóricas del mundo.
+    </string>
+</resources>
